@@ -1,5 +1,6 @@
-#Signos APP
+# Signos APP
 Aplicação que exibe as imagens e datas referentes a cada signo
+
 Hospeadado em: [Netlify](https://signos-webapp.netlify.app/)
 
 # Getting Started with Create React App
